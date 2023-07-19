@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7877150e-7f3f-4435-8e54-57aaa3e31f42" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SZAIhuzSZ4v3y4aWc95kcDAEKh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/Kafka-Tuts",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.32198712"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\Kafka-Tuts\inclass\create-producers-and-consumers\OrderConsumer\src\main\resources" />
+      <recent name="C:\Users\abhil\IdeaProjects\Kafka-Tuts\inclass\create-producers-and-consumers\OrderConsumer\src\main\java" />
+      <recent name="C:\Users\abhil\IdeaProjects\Kafka-Tuts\assignment\assignment1\truct-tracking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\Kafka-Tuts\inclass\create-producers-and-consumers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pashmash.kafka.avro" />
+      <recent name="org.pashmash.kafka.orderconsumer.customdeserializers" />
+      <recent name="org.pashmash.kafka.orderproducer.customserializers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.pashmash.kafka.avro.serializers.OrderProducer">
+    <configuration name="OrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderconsumer.customdeserializers.OrderConsumer" />
+      <module name="OrderConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pashmash.kafka.orderconsumer.customdeserializers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderproducer.OrderProducer" />
+      <module name="OrderProducer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pashmash.kafka.orderproducer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.pashmash.kafka.avro.deserializers.OrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.kafka.avro.deserializers.OrderConsumer" />
+      <module name="OrderConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.kafka.avro.deserializers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.pashmash.kafka.avro.serializers.OrderProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.kafka.avro.serializers.OrderProducer" />
+      <module name="OrderProducer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pashmash.kafka.avro.serializers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.pashmash.kafka.orderconsumer.OrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderconsumer.OrderConsumer" />
+      <module name="OrderConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pashmash.kafka.orderconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TrackProducer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TrackProducer" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.pashmash.kafka.avro.serializers.OrderProducer" />
+        <item itemvalue="Application.com.pashmash.kafka.avro.deserializers.OrderConsumer" />
+        <item itemvalue="Application.org.pashmash.kafka.orderconsumer.OrderConsumer" />
+        <item itemvalue="Application.OrderProducer" />
+        <item itemvalue="Application.OrderConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7877150e-7f3f-4435-8e54-57aaa3e31f42" name="Changes" comment="" />
+      <created>1689343652755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689343652755</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
