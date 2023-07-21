@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7877150e-7f3f-4435-8e54-57aaa3e31f42" name="Changes" comment="" />
+    <list default="true" id="11d0f4c3-4244-4cc8-a7fd-3345370b87d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka-Tuts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/TrackConsumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/TrackProducer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/OrderConsumer-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/classes/org/pashmash/kafka/orderconsumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/classes/org/pashmash/kafka/orderconsumer/OrderConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/classes/org/pashmash/kafka/trackproducer/TrackConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackConsumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/TrackProducer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/OrderConsumer-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/classes/org/pashmash/kafka/orderconsumer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/classes/org/pashmash/kafka/orderconsumer/OrderConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/classes/org/pashmash/kafka/trackproducer/TrackCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/classes/org/pashmash/kafka/trackproducer/TrackProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment/assignment1/truct-tracking/TrackProducer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/src/main/java/com/pashmash/kafka/avro/deserializers/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/src/main/java/com/pashmash/kafka/avro/deserializers/OrderConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/src/main/java/com/pashmash/kafka/avro/deserializers/OrderConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/src/main/java/com/pashmash/kafka/avro/serializers/OrderProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/src/main/java/com/pashmash/kafka/avro/serializers/OrderProducer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +53,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,10 +83,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/Kafka-Tuts",
+    "last_directory_selection": "//wsl$/Ubuntu-22.04/home/abhilash/java-projects/Kafka-Tuts/inclass/create-producers-and-consumers/OrderConsumer/src/main/java/com/pashmash/kafka/avro",
+    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/abhilash/jdk",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.32198712"
+    "project.structure.side.proportion": "0.32198712",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,18 +101,20 @@
       <recent name="C:\Users\abhil\IdeaProjects\Kafka-Tuts\inclass\create-producers-and-consumers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pashmash.kafka.avro.deserializers" />
+      <recent name="com.pashmash.kafka.avro.serializers" />
       <recent name="com.pashmash.kafka.avro" />
       <recent name="org.pashmash.kafka.orderconsumer.customdeserializers" />
       <recent name="org.pashmash.kafka.orderproducer.customserializers" />
     </key>
   </component>
   <component name="RunManager" selected="Application.com.pashmash.kafka.avro.serializers.OrderProducer">
-    <configuration name="OrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderconsumer.customdeserializers.OrderConsumer" />
+    <configuration name="GenericOrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.kafka.avro.deserializers.GenericOrderConsumer" />
       <module name="OrderConsumer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pashmash.kafka.orderconsumer.customdeserializers.*" />
+          <option name="PATTERN" value="com.pashmash.kafka.avro.deserializers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +122,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderproducer.OrderProducer" />
+    <configuration name="GenericOrderProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pashmash.kafka.avro.serializers.GenericOrderProducer" />
       <module name="OrderProducer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.pashmash.kafka.orderproducer.*" />
+          <option name="PATTERN" value="com.pashmash.kafka.avro.serializers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Kafka-Tuts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +174,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.pashmash.kafka.orderconsumer.OrderConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pashmash.kafka.orderconsumer.OrderConsumer" />
-      <module name="OrderConsumer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.pashmash.kafka.orderconsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="TrackProducer" />
       <method v="2">
@@ -147,16 +191,16 @@
       <list>
         <item itemvalue="Application.com.pashmash.kafka.avro.serializers.OrderProducer" />
         <item itemvalue="Application.com.pashmash.kafka.avro.deserializers.OrderConsumer" />
-        <item itemvalue="Application.org.pashmash.kafka.orderconsumer.OrderConsumer" />
-        <item itemvalue="Application.OrderProducer" />
-        <item itemvalue="Application.OrderConsumer" />
+        <item itemvalue="Application.GenericOrderConsumer" />
+        <item itemvalue="Application.GenericOrderProducer" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7877150e-7f3f-4435-8e54-57aaa3e31f42" name="Changes" comment="" />
+      <changelist id="11d0f4c3-4244-4cc8-a7fd-3345370b87d9" name="Changes" comment="" />
       <created>1689343652755</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -174,5 +218,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

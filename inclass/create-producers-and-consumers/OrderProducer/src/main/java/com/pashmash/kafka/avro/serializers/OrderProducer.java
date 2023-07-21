@@ -15,7 +15,7 @@ public class OrderProducer {
         props.setProperty("schema.registry.url", "http://localhost:8081");
 
         KafkaProducer<String, Order> producer = new KafkaProducer<String, Order>(props);
-        Order order = new Order("Bharath","IPhone",3);
+        Order order = new Order("Amrita","Iphone",11);
         ProducerRecord<String, Order> record = new ProducerRecord<>("OrderAvroTopic", order.getCustomerName().toString(), order);
         try {
             producer.send(record);

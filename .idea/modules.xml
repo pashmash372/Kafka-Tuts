@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kafka-Tuts.iml" filepath="$PROJECT_DIR$/Kafka-Tuts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/OrderConsumer.iml" filepath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderConsumer/OrderConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/OrderProducer.iml" filepath="$PROJECT_DIR$/inclass/create-producers-and-consumers/OrderProducer/OrderProducer.iml" />
     </modules>
   </component>
 </project>
